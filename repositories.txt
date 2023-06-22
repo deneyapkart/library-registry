@@ -1,5 +1,22 @@
+https://github.com/jmerc77/Fast4ier
+https://github.com/AlfredoSystems/Alfredo-NoU2
+https://github.com/AlfredoSystems/AlfredoConnect-Receive
+https://github.com/AsproCompany/GeneralShield
+https://github.com/vindar/ILI9342_T4
+https://github.com/Xylopyrographer/LiteLED
+https://github.com/alexitoo00/NewEncoder
+https://github.com/masaad01/SPIFFS_Shell
+https://github.com/ProfTahseen/Tarmos
+https://github.com/dhrubasaha08/DHT11
+https://github.com/DIYables/DIYables_4Digit7Segment_74HC595
+https://github.com/DIYables/DIYables_IRcontroller
+https://github.com/bimac/EEPstore
+https://github.com/wzwyz/CrystalC
+https://github.com/wzwyz/Stringcalculater
 https://github.com/ejri/Cohere_Client_Arduino
 https://github.com/Zhu-jiatong/WebServerSessionManager.git
+https://github.com/Zhu-jiatong/TaskQueue
+https://github.com/Zhu-jiatong/FilesystemUtilities
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/soylentOrange/DigiSpark_PWM
 https://github.com/SanteriLindfors/WiFiProvisioner
@@ -397,6 +414,7 @@ https://github.com/DFRobot/DFRobot_GM60
 https://github.com/DFRobot/DFRobot_GNSS
 https://github.com/DFRobot/DFRobot_GP8302
 https://github.com/DFRobot/DFRobot_GP8403
+https://github.com/DFRobot/DFRobot_GP8XXX
 https://github.com/DFRobot/DFRobot_Gesture_Touch
 https://github.com/DFRobot/DFRobot_HX711
 https://github.com/DFRobot/DFRobot_HX711_I2C
@@ -414,6 +432,7 @@ https://github.com/DFRobot/DFRobot_LIS
 https://github.com/DFRobot/DFRobot_LPUPS
 https://github.com/DFRobot/DFRobot_LSM303
 https://github.com/DFRobot/DFRobot_LWLP
+https://github.com/DFRobot/DFRobot_LcdDisplay
 https://github.com/DFRobot/DFRobot_LedDisplayModule
 https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_MAX17043
@@ -677,6 +696,7 @@ https://github.com/Guswib/Potentiostat_Shield/
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/FileData
 https://github.com/GyverLibs/AccelMotor
 https://github.com/GyverLibs/AnalogKey
 https://github.com/GyverLibs/Approxy
@@ -754,6 +774,7 @@ https://github.com/GyverLibs/microDS18B20
 https://github.com/GyverLibs/microDS3231
 https://github.com/GyverLibs/microLED
 https://github.com/GyverLibs/microWire
+https://github.com/Crazy-Max-Blog/Crazy_IoTik
 https://github.com/H-Kurosaki/UARDECS
 https://github.com/H-Kurosaki/UARDECS_MEGA
 https://github.com/HNRobotica/LineTracker5
@@ -822,6 +843,7 @@ https://github.com/Infineon/arduino-rgb-led-lighting-shield
 https://github.com/Infineon/hall-switch
 https://github.com/Infineon/high-side-switch
 https://github.com/Infineon/motor-system-ic-tle956x
+https://github.com/Infineon/arduino-xensiv-dps3xx
 https://github.com/InfiniteCoder01/BufferedOreonSSD1351
 https://github.com/IngeniaMC/Ingenia-Serial-Servo-Drive-Library
 https://github.com/InqOnThat/InqPortal
@@ -1653,6 +1675,7 @@ https://github.com/RobTillaart/Statistic
 https://github.com/RobTillaart/StopWatch_RT
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
+https://github.com/RobTillaart/TLC5947
 https://github.com/RobTillaart/TM1637_RT
 https://github.com/RobTillaart/TOPMAX
 https://github.com/RobTillaart/TOPMIN
@@ -2041,6 +2064,7 @@ https://github.com/Tinyu-Zhao/BMI270_Sensor
 https://github.com/Tockn/MPU6050_tockn
 https://github.com/Toernblom/SimpleUDPController
 https://github.com/Toernblom/SimpleWiFiClient
+https://github.com/tomasz90/two-buttons-interface
 https://github.com/TomasRoj/BasicsLibrary
 https://github.com/TomasRoj/OctopusLab-Library
 https://github.com/ToniA/arduino-heatpumpir
@@ -2126,6 +2150,7 @@ https://github.com/XbergCode/Uptime
 https://github.com/XiloXL/Powerbaas
 https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library
+https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library
 https://github.com/YashuYathi/controlKeyboard
 https://github.com/YiannisBourkelis/Uptime-Library
 https://github.com/YoupiLab/YLEsp8266
@@ -2263,6 +2288,7 @@ https://github.com/adafruit/Adafruit_FXOS8700
 https://github.com/adafruit/Adafruit_FeatherOLED
 https://github.com/adafruit/Adafruit_Floppy
 https://github.com/adafruit/Adafruit_FreeTouch
+https://github.com/adafruit/Adafruit_GC9A01A
 https://github.com/adafruit/Adafruit_GPS
 https://github.com/adafruit/Adafruit_HDC1000_Library
 https://github.com/adafruit/Adafruit_HMC5883_Unified
@@ -2601,6 +2627,7 @@ https://github.com/arduino-libraries/Arduino_DebugUtils
 https://github.com/arduino-libraries/Arduino_EMBRYO_2
 https://github.com/arduino-libraries/Arduino_ESP32_OTA
 https://github.com/arduino-libraries/Arduino_EdgeControl
+https://github.com/arduino-libraries/Arduino_GigaDisplayTouch
 https://github.com/arduino-libraries/Arduino_HS300x
 https://github.com/arduino-libraries/Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_JSON
@@ -2859,8 +2886,10 @@ https://github.com/bluerobotics/BlueRobotics_TSYS01_Library
 https://github.com/bluerobotics/ping-arduino
 https://github.com/blues/note-arduino
 https://github.com/blues/notecard-aux-wifi
+https://github.com/blues/notecard-env-var-manager
 https://github.com/blues/notecard-pseudo-sensor
 https://github.com/blynkkk/blynk-library
+https://github.com/blynkkk/BlynkNcpDriver
 https://github.com/bmellink/IBusBM
 https://github.com/bmellink/VNH3SP30
 https://github.com/bmts/FMDataClient
@@ -3082,7 +3111,7 @@ https://github.com/cristborges/IRRemoteControl
 https://github.com/crmoratelli/SupmeaDO7016
 https://github.com/csash7/mbed-BLE-Mouse
 https://github.com/cubicleguy/su_arduino_spi
-https://github.com/cubicleguy/su_arduino_uart 
+https://github.com/cubicleguy/su_arduino_uart
 https://github.com/cujomalainey/ant-arduino
 https://github.com/cujomalainey/antplus-arduino
 https://github.com/cvmanjoo/AT24Cxx
@@ -3094,6 +3123,7 @@ https://github.com/cygig/MonteCarloPi
 https://github.com/cygig/SDConfigCommand
 https://github.com/cygig/SerialConfigCommand
 https://github.com/cygig/TimerEvent
+https://github.com/cyijun/ESP32MQTTClient
 https://github.com/cyijun/HAMqttDiscoveryHandler
 https://github.com/d-a-v/ESPWebDAV
 https://github.com/d00616/arduino-NVM
@@ -3614,6 +3644,8 @@ https://github.com/hpwit/SID6581
 https://github.com/hsaturn/TinyConsole
 https://github.com/hsaturn/TinyMqtt
 https://github.com/hsfl/artemis-teensy
+https://github.com/htmltiger/dhtESP32-rmt
+https://github.com/htmltiger/esp32-ds18b20
 https://github.com/huilab/HoneywellTruStabilitySPI
 https://github.com/huilab/HoneywellZephyrI2C
 https://github.com/hunamizawa/ESPPerfectTime
@@ -3788,7 +3820,7 @@ https://github.com/jostlowe/Pico-DMX
 https://github.com/joysfera/arduino-tasker
 https://github.com/jpb10/SolarCalculator/
 https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
-https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library 
+https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
 https://github.com/jpconstantineau/BlueMicro_SAMD_Arduino_Library
@@ -4290,6 +4322,7 @@ https://github.com/m5stack/M5Unit-4RELAY
 https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5Unit-CatM
 https://github.com/m5stack/M5Unit-DDS
+https://github.com/m5stack/M5Unit-DigiClock
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
 https://github.com/m5stack/M5Unit-Encoder
@@ -4306,6 +4339,7 @@ https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_EzData
 https://github.com/m5stack/MODULE_GRBL13.2
 https://github.com/m5stack/PoE_CAM
+https://github.com/m5stack/PoE_CAM-Ethernet
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
 https://github.com/madhephaestus/BNO055SimplePacketComs
@@ -4408,6 +4442,7 @@ https://github.com/mcci-catena/MCCI_FRAM_I2C
 https://github.com/mcci-catena/arduino-lmic
 https://github.com/mcci-catena/arduino-lorawan
 https://github.com/mcci-catena/mcci_ltr_329als
+https://github.com/mcci-catena/SoftwareSerial
 https://github.com/mchwalfajar/jeager-one
 https://github.com/mcmchris/mcm-bl0940-lib
 https://github.com/mcmchris/mcm-grove-voltage-sensor
@@ -4452,6 +4487,7 @@ https://github.com/microchip-pic-avr-solutions/avr-iot-cellular-arduino-library
 https://github.com/microchip-pic-avr-solutions/mcp9808_arduino_driver
 https://github.com/microchip-pic-avr-solutions/veml3328_arduino_driver
 https://github.com/micromouseonline/BasicEncoder
+https://github.com/microsoft/ArduinoHidForWindows
 https://github.com/miguel5612/Arduino-ThermistorLibrary
 https://github.com/miguel5612/MQSensorsLib
 https://github.com/miguelbalboa/rfid
@@ -4951,6 +4987,7 @@ https://github.com/sadr0b0t/arduino-timer-api
 https://github.com/saghonfly/SimpleEspNowConnection
 https://github.com/sakabug/Bugtton
 https://github.com/sakuraio/SakuraIOArduino
+https://github.com/sakura-internet/sipf-arduino-client
 https://github.com/salvadorrueda/SerialMP3Player
 https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/samelement/ACS-M1128
@@ -5097,6 +5134,7 @@ https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary
 https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary
 https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary
 https://github.com/sparkfun/SparkFunDMX
+https://github.com/sparkfun/SparkFun_LSM6DSV16X_Arduino_Library
 https://github.com/sparkfun/SparkFun_6DoF_ISM330DHCX_Arduino_Library
 https://github.com/sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library
 https://github.com/sparkfun/SparkFun_AD5330_Breakout_Arduino_Library
@@ -5124,6 +5162,7 @@ https://github.com/sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMA400_Arduino_Library
 https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
+https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library
@@ -5708,6 +5747,7 @@ https://github.com/xoseperez/s7xg
 https://github.com/xreef/ABB_Aurora_Solar_Inverter_Library
 https://github.com/xreef/DHT12_sensor_library
 https://github.com/xreef/EByte_LoRa_E220_Series_Library
+https://github.com/suratin27/DINO_PLC_V1
 https://github.com/xreef/EByte_LoRa_E22_Series_Library
 https://github.com/xreef/EMailSender
 https://github.com/xreef/LoRa_E32_Series_Library
@@ -5864,6 +5904,7 @@ https://github.com/facts-engineering/P1AM_Serial
 https://github.com/ChitoKim/mahjongAsst
 https://github.com/ChitoKim/mahjongAsst_U8X8
 https://github.com/schnoog/vl53l0x-arduino-mod
+https://github.com/jgvmonteiro/SerialBus
 https://github.com/schnoog/Joystick_ESP32S2
 https://github.com/deneyapkart/deneyap_arduino_examples
 https://github.com/adafruit/Adafruit_MCP2515
@@ -5880,6 +5921,7 @@ https://github.com/GhassanYusuf/NewServo
 https://github.com/dojyorin/arduino_m0_tweak
 https://github.com/stm32duino/X-NUCLEO-NFC08A1
 https://github.com/rhrhhrhr/MPC_ruih
+https://github.com/yuki-kurosawa/SuperPico-TinyMenu
 https://github.com/sinricpro/teleport-arduino-esp32-library
 https://github.com/midilab/uClock
 https://github.com/sivar2311/WebMonitor
@@ -5887,3 +5929,41 @@ https://github.com/fablabbh/Arduino-L298-Motor-Library
 https://github.com/witnessmenow/file-fetcher-arduino
 https://github.com/GabyGold67/FourBitLedDigitalTube
 https://github.com/deneyapkart/deneyap-servo-arduino-library
+https://github.com/hmz06967/SPI-FlashMem
+https://github.com/hmz06967/OZGPS_NMEA
+https://github.com/pazi88/STM32_CAN
+https://github.com/dang-gun/Arduino_ButtonClickCheck
+https://github.com/flash62au/WiThrottleProtocol
+https://github.com/ArtronShop/ArtronShop_PCF85363
+https://github.com/JhoselinRam/gButton
+https://github.com/glutio/Taskfun
+https://github.com/arduino-libraries/Arduino_GroveI2C_Ultrasonic
+https://github.com/epsilonrt/Hmi4DinBox
+https://github.com/suratin27/DINO_PLC
+https://github.com/neittien0110/siotcore_sdk_v2
+https://github.com/glutio/Eventfun
+https://github.com/mhorimoto/M304-lib
+https://github.com/rm5248/liblcc-arduino
+https://github.com/pablomarquez76/AnalogWrite_ESP32
+https://github.com/SNMetamorph/FutabaVfdM202MD10C
+https://github.com/dang-gun/Arduino_StepperAsync5
+https://github.com/ripred/CompileTime
+https://github.com/eigen-value/Transform
+https://github.com/DavidArmstrong/SiderealObjects
+https://github.com/epsilonrt/RadioHead.git#mikem
+https://github.com/epsilonrt/modbus-radio
+https://github.com/hexaedron/PostNeoSWSerial
+https://github.com/stm32duino/VL53L8CX
+https://github.com/sunfounder/SunFounder_Ai_Camera
+https://github.com/Interested-In-Spresense/MM-S50MV
+https://github.com/stm32duino/X-NUCLEO-53L8A1
+https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY
+https://github.com/skyfroger/RPlatform
+https://github.com/koendv/cst816t
+https://github.com/bitbank2/bb_rtc
+https://github.com/ripred/Smooth
+https://github.com/ryraki/FXPS7xxx_Arduino
+https://github.com/ryraki/FXLS89xx_Arduino
+https://github.com/bitbank2/bb_ltr390
+https://github.com/lualtek/lualtek-rak3172
+https://github.com/fellipecouto/CipherCode
